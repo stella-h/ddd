@@ -6,18 +6,40 @@ And we'll talk about what else is out there, when you do find the right job. Wor
 
 `go from negative to positive? end on positive note ?`
 
-structure
+structure 1
 - In which she uses an example of a common scenario that a developer might find themselves in
 - and continues to illustrate their choices and the repercussions of their choices, how they became stuck in that scenario, what they could do about it etc.
 
+structure 2
+- others & own experience in a bad workplace
+- how to identify a bad workplace
+- what can you do about it
+- the cost of quitting (leads into people staying longer than they should)
+- when you should quit? should you quit?
+- find the next job - what's next?
+
+
 
 ### Outline
-- introduction
+- introductory slides
     - name
     - like/dislike
     - twitter handle
-    - work (segueway into the talk itself)
-    - talk about the structure of the talk and dive in
+    - introduce structure:
+        - toxic workplaces - both my own and other's experience
+        - what can be learnt from being in these environment
+        - what to do about it when you find yourself in this situation
+        - weather quitting is the answer & solution
+        - what's next.
+
+### Workplaces
+- Not all workplaces are created equal.
+- Good workplaces are relative to individuals
+
+
+
+
+
 
 
 middle
@@ -65,9 +87,6 @@ end (summary)
     - remember that we're not doctors/nurses, our jobs are not that important. If civilization falls tomorrow, we'll just be a bunch of nerds who would be so akward in the wild.
     - think and reflect if you're the asshole that's making everyone leave
     -
-
-
-
 
 
 
