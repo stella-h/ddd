@@ -26,15 +26,44 @@ structure 2
     - like/dislike
     - twitter handle
     - introduce structure:
-        - toxic workplaces - both my own and other's experience
+        - workplaces - both my own and other's experience
         - what can be learnt from being in these environment
         - what to do about it when you find yourself in this situation
         - weather quitting is the answer & solution
         - what's next.
 
-### Workplaces
-- Not all workplaces are created equal.
-- Good workplaces are relative to individuals
+
+### what's the story ?
+- share 1st experience
+    - job scope has changed over time
+    - i'll never be in the engineering team
+
+    - I would like to share my first experience. With this place, it wasn't necessarily toxic but rather it was a situation that I didn't see coming. I noticed overtime that my day to day duties has shifted drastically to what I have been hired to do. I brought it up briefly to my reporting manager and they assured me work will be back as usual in no time. But weeks passed and it soon turned into months. I realised I will never go back to what I was doing before because 'that work is not a priority right now, we just have to focus on this at the moment'. When I left that role, I brought up this issue during my exit interview and they simply said 'well that's the nature of startups, you just gotta do what needs to be done first. We don't have the luxury to pick and choose.'
+
+    Even after I left. I couldn't help but to still feel it's somehow my fault for not being a team player; that I had let them down because I decided to leave instead of doing the work that's expected.
+
+
+- share 2nd experience
+    - Witnessing my team lead crying on their desk after a meeting with management and pretended nothing had happened the next day.
+    I knew work was tough but I though and there's alot of pressures from management but I still think that it was manageable. I did not realise that I was in such a hostile environment until I witness my team lead crying over their desk after they came out from a meeting with management. I knew work was bad but that was the last straw. I didn't have the confidence to leave and I because I was only starting out, I doubted my skills and I didn't really have alot of people who I could talk to regarding my situation. But I knew deep down in my gut I had to leave no matter what so I decided to do more outside of work to get my skills up to scratch. Eventually I left and not long after, my team lead followed.
+
+
+share 3rd experience
+    -
+
+
+### what did i learn / what should i do in these situations / was there something i could have done better / should i have quit ??
+- 1st experience
+    - When i first learnt that the job scope has changed from what i was hired to do, I panicked and I couldn't believe that this was happening. I thought i had done enough due dilligence during the interview but it clearly wasn't enough. I did quit because I know if I had stayed in the company, it wouldn't be beneficial to my career development.
+
+### wrap up notes
+- remember that quitting is a privillege that not everybody can afford. people can you to quit, I can tell you to quit but at the end of the day, you know your situation best.
+- remember to have a sounding board. Talk it out with your friend, or peers. Be honest if you're struggling. It will help keep you in check and you're not crazy for feeling that way.
+- you are not alone, your peers are here to help you. twitter famous devs are there to help you and give you advice. tech is filled with garbage people but it's also filled with so many wonderful supportive people.
+- Be supportive. If you do find yourself on the other side giving advice, remember to be kind and try to see it from their point of view.
+- You can learn how to code but you can't learn to be a nice person. You technical skills gets you through the door but weather you stay or not is your interpersonal skills.
+- Be nice. Don't be an asshole.
+
 
 
 
