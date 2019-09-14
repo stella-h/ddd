@@ -4,151 +4,77 @@ In this talk, we will consider the different situations -- good and bad -- that 
 
 And we'll talk about what else is out there, when you do find the right job. Work doesn't have to be miserable!
 
-`go from negative to positive? end on positive note ?`
-
-structure 1
-- In which she uses an example of a common scenario that a developer might find themselves in
-- and continues to illustrate their choices and the repercussions of their choices, how they became stuck in that scenario, what they could do about it etc.
-
-structure 2
-- others & own experience in a bad workplace
-- how to identify a bad workplace
-- what can you do about it
-- the cost of quitting (leads into people staying longer than they should)
-- when you should quit? should you quit?
-- find the next job - what's next?
-
-
 
 ### Outline
+    - many of you here by mistake, if you'd like to leave to go another talk track, i won't be offended. here's your chance... right, i guess all of you here really wants to hear some juicy goss.
+
+
 - introductory slides
     - name
+        - i'll give you a few moments to leave room.
     - like/dislike
     - twitter handle
-    - introduce structure:
-        - workplaces - both my own and other's experience
-        - what can be learnt from being in these environment
-        - what to do about it when you find yourself in this situation
-        - weather quitting is the answer & solution
-        - what's next.
+
+    today i'll be sharing my experiences and the experiences others of toxic workplaces.
+    > maybe on the structure.
 
 
 ### what's the story ?
+
 - share 1st experience
-    - job scope has changed over time
-    - i'll never be in the engineering team
-
-    - I would like to share my first experience. With this place, it wasn't necessarily toxic but rather it was a situation that I didn't see coming. I noticed overtime that my day to day duties has shifted drastically to what I have been hired to do. I brought it up briefly to my reporting manager and they assured me work will be back as usual in no time. But weeks passed and it soon turned into months. I realised I will never go back to what I was doing before because 'that work is not a priority right now, we just have to focus on this at the moment'. When I left that role, I brought up this issue during my exit interview and they simply said 'well that's the nature of startups, you just gotta do what needs to be done first. We don't have the luxury to pick and choose.'
-
-    Even after I left. I couldn't help but to still feel it's somehow my fault for not being a team player; that I had let them down because I decided to leave instead of doing the work that's expected.
 
 
-- share 2nd experience
-    - Witnessing my team lead crying on their desk after a meeting with management and pretended nothing had happened the next day.
-    I knew work was tough but I though and there's alot of pressures from management but I still think that it was manageable. I did not realise that I was in such a hostile environment until I witness my team lead crying over their desk after they came out from a meeting with management. I knew work was bad but that was the last straw. I didn't have the confidence to leave and I because I was only starting out, I doubted my skills and I didn't really have alot of people who I could talk to regarding my situation. But I knew deep down in my gut I had to leave no matter what so I decided to do more outside of work to get my skills up to scratch. Eventually I left and not long after, my team lead followed.
+The first story I would like to share with you is about a friend of mine called G
+
+    G had been learning how to code by himself for the past 2 years and when he finally landed his first dev job he was so excited could not believe his luck. 6 months into the job, the excitement has worn off. Work was tough and there was alot of pressure from management, but he still think that its manageable. He did not realise that he was in such a hostile environment until he witness his team lead crying over his desk after he came out of a meeting. He knew very well work was bad but that was the last straw. However, he didn't have the confidence to leave. Afterall he was just starting out and getting this job felt like such a lucky fluke. He doubted his skills and to top it all off, he didn't have friends in the industry who could empathize in his situation. But he knew deep down he had to leave no matter what. So he decided to do more hours outside of work to get his skills up to scratch. Eventually he left for a better position, with fewer tears. Not long after, his team lead followed.
 
 
-share 3rd experience
-    -
+    In this case, G did not realise what was a reasonable workload and culture. To top it all off, he did not have acceess to a network of like mided people who he could confide in.
 
 
-### what did i learn / what should i do in these situations / was there something i could have done better / should i have quit ??
-- 1st experience
-    - When i first learnt that the job scope has changed from what i was hired to do, I panicked and I couldn't believe that this was happening. I thought i had done enough due dilligence during the interview but it clearly wasn't enough. I did quit because I know if I had stayed in the company, it wouldn't be beneficial to my career development.
+The second story I would like to share with you is about a friend of mine called P.
 
-### wrap up notes
-- remember that quitting is a privillege that not everybody can afford. people can you to quit, I can tell you to quit but at the end of the day, you know your situation best.
-- remember to have a sounding board. Talk it out with your friend, or peers. Be honest if you're struggling. It will help keep you in check and you're not crazy for feeling that way.
-- you are not alone, your peers are here to help you. twitter famous devs are there to help you and give you advice. tech is filled with garbage people but it's also filled with so many wonderful supportive people.
-- Be supportive. If you do find yourself on the other side giving advice, remember to be kind and try to see it from their point of view.
-- You can learn how to code but you can't learn to be a nice person. You technical skills gets you through the door but weather you stay or not is your interpersonal skills.
-- Be nice. Don't be an asshole.
+    P always prides herself in her strong work ethic and she works very hard in every role that she has ever been in. She was excited when she finally landed a role in a prominent tech company. She was 1 of the 2 people in charge of building the whole front end architecture for her team. She was eager to learn and more responsibilites means, better learning opportunities. However, she was frequently being let down as her senior never gave her valuable feedback in regards to her work. He would always say 'That's not the right way to do it' but when she pressed him for more details, he would always say 'I don't know but that's not what the docs says, just read it. Its all there.' She knows that he has lost his passion for technical work, after all he told her 'You know, I never wanted to be a senior. I accepted this role because I wanted to be a PM. If I was a female and I wanted to be a PM, they would have given it to me a long time ago. It's so much easier being a female in tech to go into manegerial roles.'
 
 
+    In her case, she's hindered by a person in her team not doing their job and being in a role where her superior has clearly has lost his passion.
+
+Another story I would like to share with you is one of my own.
+
+    With this company, it wasn't necessarily toxic but rather it was a situation that I didn't see coming and not one I had signed up for. Over the course of 3 months of joining the company, I noticed that my day to day duties has shifted drastically to what I have been hired to do. I recognise that I had to do something about this situation, and so i decided to bring it up to my reporting manager. He assured me work will be back as usual in no time because we were under the pump to secure another round of investment. I was hired to builts UIs but I was building brochures instead. Weeks passed and soon turned into months.
+
+    At one meeting over the course of several months, he printed out my job description and sat me down to tell me that `your job doesn't require you to write code, we just wanted you to recognise them and read them. Besides you will never be good enough for our engineering team.'
+
+    I realised I will never go back to what I was doing before because 'that work is not a priority right now, we just have to focus on securing this investment'. Although it wasn't in writing, the role has clearly changed and I wasn't necessarily the right person for the job anymore. I realise it was my time go and there's no point sticking around. So i decided to leave with no prospect of the next job.
+
+    I brought up the change of role during my exit interview and he simply said 'well that's the nature of startups, you just gotta do what needs to be done first. We don't have the luxury to pick and choose.'
+
+    Even after I left. I couldn't help but to still feel it's somehow my fault for not being a team player; that I had let them down because I decided to leave instead of doing the work that was expected.
+
+    Fortunately, I found other roles and have been working at several other places including, several other engineering teams.
+    So suck it Ben.
 
 
+    All of the stories I've told you are of people recognising themselves in situations that aren't ideal. The important point to remember is to recognise yourself when you are in that situation and knowing your limits and weather to stay or go.
 
 
+Remember that quitting is a privillege that not everybody can afford. People can tell you to quit, I can tell you to quit but at the end of the day, you know your situation best. But if you do quit, here's my twitter, please DM me. Bonus points if you say 'stella told me to quit' to your boss.
 
+Have a sounding board. Talk it out with your friend, or whoever you're comfortable with to confirm your theories and validate you feelings. You're not alone and it will help keep you in check. They might even tell you that you're not crazy for feeling that way. Talk to the person next to you for a start.
 
-middle
-    - why do people leave their jobs
-        - good
-            - upskilled or outgrowned their role
-            - more relevant work inline with their career aspiration
-            - offered a better pay
+Much like microservices don't exist in isolation, remember that your actions affect other people. Just because you're bored at your job or you're stuck, it doesn't mean that its exclusively your problem especially if you're in a leadership position. Your actions and opinions still affect other people.
 
+Be supportive. If you do find yourself on the other side giving advice, remember to be kind and try to see it from their point of view.
 
-        - bad
-            - work has changed overtime
-            - not feeling valued
-            - not learning enough
-            - having to deal with the same problems
+You can write test for code but you can't write test for your personality.
 
+Be nice to other people. The tech community is so small and you will never know who you could be working for. It could be the colleague that you made fun off for not getting his design systems talk accepted or that person who you made fun of, because she didn't understand how `setTimeOut` worked.
 
-        situational examples
-        - changed job scope
-        - unrealistic expectations
-        -
-
-    - segueway into bad / toxic workplaces (what defines as a bad work place)
-        - non supportive working conditions
-        - terrible management
-        - no transparency / communication
-        - repeatedly being let down
-        - bullying
-
-middle resolution
-    - segueway into why people stay in this shitty jobs?
-        - not confident enough in their skills
-        - thinking that they'll ride it out after talking to management
-        - everyone in the industry goes through these situation
-        - this is just a rough patch, it will get better in time afterall i've spoken to management.
-        - their situation won't allow for them to leave (mentally / financially)
-        - think that what they're going through is normal thus
-        - the don't realise they're in a terrible position - no sounding board
-
-    - temporary solution to said shitty work places that was in the example
-
-end (summary)
-    - reinforce the idea that it's completely normal to want to leave your job.
-    - know your worth even if you're in a bad place even if you're a junior you still have something to contribute.
-    - remember that we're not doctors/nurses, our jobs are not that important. If civilization falls tomorrow, we'll just be a bunch of nerds who would be so akward in the wild.
-    - think and reflect if you're the asshole that's making everyone leave
-    -
+Bet on yourself. But don't bet on yourself too much to the point of quitting your 10th of in a year. Then that's not them, that's you.
+If you can land your first role, chances of you landing the second role is equally as high or even higher. Life is too short to be stuck in a shitty job.
 
 
 
-
-
-
-I have worked in more than 1 place but talked to a bunch of different people which makes me **totally** qualified to do this. **cue laughter** in having said that, we are defintely not alone when it comes to thinking of quitting our jobs - in fact every second there's at least 268 developers thinking of leaving their jobs. (268 devs/second) so we are definitely not alone.
-
-It's human nature to seek out a greener grass however, how do we recognise that it is time for us to seek out greener grass (better job). Or maybe we're not watering our grass enough or plot twist, we're the toxic sludge that's making the grass brown.
-
-
-
-
-
-
-### Middle
-- thinking about wanting to leave your job is normal
-- human nature to seek out the good things in life - greener pastures
-- recognise if grass is greener is an illusion
-- tips how to recognise that it's an illusion (toxic sludge dump)
-**short stories and anecdotes about horrible work places**
-**recognition game of good & bad workplace**
-
-
-
-- when is the "right" time to leave my job? (recognising when its time to leave)
-- how do i know when its my time to leave my job
-
-- should i stay / should i go?
-- how would i know if i could even get another opportunity?
-- maybe this kinda treatment its normal and i should just stick it out
-- surely everybody goes through things like these
-- i've raised it with management, they'll do something soon
 
 
 
