@@ -5,19 +5,10 @@ In this talk, we will consider the different situations -- good and bad -- that 
 And we'll talk about what else is out there, when you do find the right job. Work doesn't have to be miserable!
 
 
-### Outline
-    - many of you here by mistake, if you'd like to leave to go another talk track, i won't be offended. here's your chance... right, i guess all of you here really wants to hear some juicy goss.
+### Intro
+Umm... This is way too many people, I believe that many of you here by mistake, if you're looking for `web performance meets machine learning`, that's in gutherie theatre. I won't be offended if you'd like to get up and leave now... I'll give you a few moments to leave the room... right, I guess all of you here really really thirsty to have some tea. Let's get crackin' then...
 
-
-- introductory slides
-    - name
-        - i'll give you a few moments to leave room.
-    - like/dislike
-    - twitter handle
-
-    today i'll be sharing my experiences and the experiences others of toxic workplaces.
-    > maybe on the structure.
-
+Hello everyone, my name is stella and I work at domain. I'm not an expert in workplace psychology like `Andy Marks`. I'm just an engineer who has worked with some asshats and it seems that my friends have too so today, I will be sharing our story and for the sake of their privacy, all names has been changed to protect their identity.
 
 ### what's the story ?
 
@@ -26,18 +17,21 @@ And we'll talk about what else is out there, when you do find the right job. Wor
 
 The first story I would like to share with you is about a friend of mine called G
 
-    G had been learning how to code by himself for the past 2 years and when he finally landed his first dev job he was so excited could not believe his luck. 6 months into the job, the excitement has worn off. Work was tough and there was alot of pressure from management, but he still think that its manageable. He did not realise that he was in such a hostile environment until he witness his team lead crying over his desk after he came out of a meeting. He knew very well work was bad but that was the last straw. However, he didn't have the confidence to leave. Afterall he was just starting out and getting this job felt like such a lucky fluke. He doubted his skills and to top it all off, he didn't have friends in the industry who could empathize in his situation. But he knew deep down he had to leave no matter what. So he decided to do more hours outside of work to get his skills up to scratch. Eventually he left for a better position, with fewer tears. Not long after, his team lead followed.
+    G had been learning how to code by himself for the past 2 years and when he finally landed his first dev job he was so excited that could not believe his luck. 6 months into the job, the excitement has worn off. Work was tough and there was alot of pressure from management;  but he still think that its manageable. He didn't realise that he was in such a hostile environment until he witness his team lead crying over his desk after he came out of a meeting.
+
+    He knew very well work was bad but that was the last straw. However, he didn't have the cofidence to leave. Afterall he was just starting out and getting this job felt like such a lucky fluke. He doubted his skills and to top it all off, he didn't have friends in the industry who could empathize with his situation. But he knew deep down he had to leave no matter what. So, he decided to do more hours outside of work to get his skills up a level where he is confident. Eventually he left for a better position with fewer tears. Not long after, his team lead followed.
 
 
-    In this case, G did not realise what was a reasonable workload and culture. To top it all off, he did not have acceess to a network of like mided people who he could confide in.
+    In this case, G did not realise what was a reasonable workload and culture. To top it all off, he did not have acceess to a network of like mided people who he could share his story and confide in.
 
 
 The second story I would like to share with you is about a friend of mine called P.
 
-    P always prides herself in her strong work ethic and she works very hard in every role that she has ever been in. She was excited when she finally landed a role in a prominent tech company. She was 1 of the 2 people in charge of building the whole front end architecture for her team. She was eager to learn and more responsibilites means, better learning opportunities. However, she was frequently being let down as her senior never gave her valuable feedback in regards to her work. He would always say 'That's not the right way to do it' but when she pressed him for more details, he would always say 'I don't know but that's not what the docs says, just read it. Its all there.' She knows that he has lost his passion for technical work, after all he told her 'You know, I never wanted to be a senior. I accepted this role because I wanted to be a PM. If I was a female and I wanted to be a PM, they would have given it to me a long time ago. It's so much easier being a female in tech to go into manegerial roles.'
+    P always prides herself in her strong work ethic and she works very hard in every role that she's ever been in. She was excited when she finally landed a role in a prominent tech company. She was 1 of the 2 people in charge of building the whole front end architecture for her team. She was eager to learn and more responsibilites means, better learning opportunities. However, she was frequently being let down as her senior never gave her valuable feedback in regards to her work. He would always say 'That's not the right way to do it' but when she pressed him for more details, he would always say 'I don't know but that's not what the docs says, just read it. Its all there.' She knows that he has lost his passion for technical work, after all he told her 'You know, I never wanted to be a senior. I accepted this role because I wanted to be a PM. If I was a female and I wanted to be a PM, they would have given it to me a long time ago. It's so much easier being a female in tech to go into manegerial roles.'
 
 
-    In her case, she's hindered by a person in her team not doing their job and being in a role where her superior has clearly has lost his passion.
+    With P, she is hindered by a person in her team not doing their job and being in a role where her senior has clearly has lost his passion.
+
 
 Another story I would like to share with you is one of my own.
 
@@ -73,6 +67,7 @@ Be nice to other people. The tech community is so small and you will never know 
 Bet on yourself. But don't bet on yourself too much to the point of quitting your 10th of in a year. Then that's not them, that's you.
 If you can land your first role, chances of you landing the second role is equally as high or even higher. Life is too short to be stuck in a shitty job.
 
+Thanks for coming to my tedTalk
 
 
 
