@@ -8,8 +8,8 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #353145;
-  background-color: #353145; }
+  background: #353031;
+  background-color: #353031; }
 
 .reveal {
   font-family: "Source Sans Pro", sans-serif;
@@ -42,7 +42,7 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #f77f7b;
+  color: #f4a7a6;
   font-family: "Playfair Display", serif;
   font-weight: 700;
   line-height: 1.2;

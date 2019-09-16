@@ -15,6 +15,7 @@
 
 // font setting
 $headingFont: 'Playfair Display', serif;
+$mainFont: 'Source Sans Pro', sans-serif;
 $headingFontWeight: 700;
 $headingTextTransform: none;
 $headingStyle: italic;
@@ -22,15 +23,18 @@ $headingStyle: italic;
 $mainFont: 'Source Sans Pro', sans-serif;
 
 // color setting goes here
-$base1:    #5a5275;
-$base2:   #353145;
+$base2:    #353031;
+$base1:   #484848;
 
-$text1:   #f77f7b;
-$text2:    #ffd5d3;
+// $text1:   #cd527b; //heading
+$text1: #f7c9d4;
+$text2:    #f4a7a6;
+
 $text3:    #bffbda;
 $text4:   #fbf140;
-$text5:   #e5c021;
-$text6:   #ffffff;
+
+$text5:   #dbebc2;
+$text6:   #ffffff; //body
 
 
 // Override theme settings (see ../template/settings.scss)
@@ -40,10 +44,10 @@ $backgroundColor: $base2;
 
 // text colors
 $mainColor: $text6;
-$headingColor: $text1;
+$headingColor: $text2;
 
 $linkColor: $text3;
-$linkColorHover: lighten( $text3, 20% );
+$linkColorHover: lighten($text3, 20%);
 
 
 // Theme template ------------------------------
