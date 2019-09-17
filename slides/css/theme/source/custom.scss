@@ -10,17 +10,17 @@
 
 
 // Include theme-specific fonts
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+@import url(../../lib/font/league-gothic/league-gothic.css);
+
 
 // font setting
-$headingFont: 'Playfair Display', serif;
-$mainFont: 'Source Sans Pro', sans-serif;
-$headingFontWeight: 700;
-$headingTextTransform: none;
-$headingStyle: italic;
+$headingFont: 'League Gothic', Impact, sans-serif;
+$mainFont: 'Lato', sans-serif;
 
-$mainFont: 'Source Sans Pro', sans-serif;
+$headingTextTransform: uppercase;
+$headingStyle: 'regular';
+
 
 // color setting goes here
 $base2:    #353031;
