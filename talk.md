@@ -31,25 +31,25 @@ But he knew deep down he had to leave no matter what. So, he decided to do more 
 In this case, G did not realise what was a reasonable workload and culture. To top it all off, he did not have acceess to a network of like mided people who he could share his story and confide in.
 
 
-The second story I would like to share with you is about a friend of mine called P.
+The second story I would like to share with you is about a friend of mine called Krystal.
 
-P always prides herself in her strong work ethic and she works very hard in every role that she's ever been in. When she landed a role in a prominent tech company, she was excited at the possibilities. She was 1 of the 2 people in charge of building the whole front end architecture for her team. She was eager to learn and more responsibilites means, better learning opportunities.
-
-However, she was constantly being let down as her senior never gave her valuable feedback in regards to her work. He would always say 'That's not the right way to do it' but when she pressed him for more details, he would always say 'I don't know but that's not what the docs says, just read it. Its all there.'
-
-She knows that he has lost his passion for technical work, after all he told her 'You know, I never wanted to be a senior. I accepted this role because I wanted to be a PM. If I was a female and I wanted to be a PM, they would have given it to me a long time ago. It's so much easier being a female in tech to go into manegerial roles.'
+Krystal always prides herself in her strong work ethic and she works very hard in every role that she's ever been in. She was excited when she finally landed a role in a prominent tech company. She was 1 of the 2 people in charge of building the whole front end architecture for her team. She was eager to learn and more responsibilites means, better learning opportunities. However, she was frequently being let down as her senior never gave her valuable feedback in regards to her work. He would always say 'That's not the right way to do it' but when she pressed him for more details, he would always say 'I don't know but that's not what the docs says, just read it. Its all there.' She knows that he has lost his passion for technical work, after all he told her 'You know, I never wanted to be a senior. I accepted this role because I wanted to be a PM. If I was a female and I wanted to be a PM, they would have given it to me a long time ago. It's so much easier being a female in tech to go into manegerial roles.'
 
 
-With P, she is hindered by a person in her team not doing their job and being in a role where her senior has clearly has lost his passion.
+With Kyrstal, she is hindered by a person in her team not doing their job and being stuck in a role where her senior has clearly lost his passion - or for the lack of better word. a dick
 
 
 Another story I would like to share with you is one of my own.
 
-With this company, it wasn't necessarily toxic but rather it was a situation that I didn't see coming and not one I had signed up for. Over the course of 3 months of joining the company, I noticed that my day to day duties has shifted drastically to what I have been hired to do. I recognise that I had to do something about this situation, and so i decided to bring it up to my reporting manager. He assured me work will be back as usual in no time because we were under the pump to secure another round of investment. I was hired to builts UIs but I was building brochures instead. Weeks passed and soon turned into months.
+With this company, it wasn't necessarily toxic but rather it was a situation that I didn't see coming and not one I had signed up for. Over the course of 3 months of joining the company, I noticed that my day to day duties has shifted drastically to what I have been hired to do. I recognise that I had to do something about this situation, and so i decided to bring it up to my reporting manager.
+
+He assured me work will be back as usual in no time because we were under the pump to secure another round of investment. I was hired to builts UIs but I was building brochures instead. Weeks passed and soon turned into months.
 
 At one meeting over the course of several months, he printed out my job description and sat me down to tell me that `your job doesn't require you to write code, we just wanted you to recognise them and read them. Besides you will never be good enough for our engineering team.'
 
-I realised I will never go back to what I was doing before because 'that work is not a priority right now, we just have to focus on securing this investment'. Although it wasn't in writing, the role has clearly changed and I wasn't necessarily the right person for the job anymore. I realise it was my time go and there's no point sticking around. So i decided to leave with no prospect of the next job.
+I realised I will never go back to what I was doing before because 'that work is not a priority right now, we just have to focus on securing this investment'.
+
+Although it wasn't in writing, the role has clearly changed and I wasn't necessarily the right person for the job anymore. I realise it was my time go and there's no point sticking around. So i decided to leave with no prospect of the next job.
 
 I brought up the change of role during my exit interview and he simply said 'well that's the nature of startups, you just gotta do what needs to be done first. We don't have the luxury to pick and choose.'
 
